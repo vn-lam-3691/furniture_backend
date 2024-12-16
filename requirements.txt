@@ -1,0 +1,4 @@
+fastapi
+pymongo==3.12
+passlib==1.7.4
+bcrypt==4.2.0
